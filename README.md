@@ -1,6 +1,8 @@
 # SWBATs
-[ ] Students will be able to create a new rails app
-[ ] Students will be able to navigate Rails applications on a basic level
+[x] Students will be able to use an MVC framework
+
+[x] Students will be able to create a new rails app
+[x] Students will be able to navigate Rails applications on a basic level
 
 [ ] Students will be able to declare routes
 [ ] Students will be able to create controllers
@@ -16,33 +18,30 @@
 
 # Objectives
 
-[ ] Create a single index route - https://my.learn.co/courses/262/pages/creating-a-rails-app?module_item_id=26677 
-[ ] Explore the files
-    [ ] db
-    [ ] config
-    [ ] public
-    [ ] app
-        [ ] models
-        [ ] controllers
-        [ ] views
+[x] Create a single index route - https://my.learn.co/courses/262/pages/creating-a-rails-app?module_item_id=26677 
+[x] Explore the files
+    [x] db
+    [x] config
+    [x] public
+    [x] app
+        [x] models
+        [x] controllers
+        [x] views
 
 [ ] cars app
-    [ ] Route for cars
-    [ ] Controller for cars
-    [ ] View for cars
-        [ ] ERB
-    [ ] Change to JSON Response
-
-    [ ] Create a cars model using a generator
-        [ ] --no-test-framework
-
-    [ ] Finish cars controller
-        [ ] Create the show route
-        [ ] Implement the show route in the controller
-            [ ] params
-            [ ] query params
-            [ ] 
-        [ ] Implement a full resource of routes
+    [x] Route for cars
+    [x] Controller for cars
+    [x] View for cars
+        [x] ERB - https://guides.rubyonrails.org/layouts_and_rendering.html
+    [x] Change to JSON Response
+    [x] Create a cars model using a generator
+        [x] --no-test-framework
+    [x] Finish cars controller
+        [x] Create the show route
+        [x] Implement the show route in the controller
+            [x] params
+            [x] query params
+        [x] Implement a full resource of routes
     
 
 
